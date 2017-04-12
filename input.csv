@@ -1,0 +1,6 @@
+header,header,header,header,data1,data1,data1,data2,data2,data2
+name,number,X,Y,0,1,2,0,1,2
+aaa,1,0,0,11,22,33,44,55,66
+aaa,1,0,1,111,222,333,444,555,666
+bbb,2,0,0,10,20,30,40,50,60
+ccc,1,2,2,100,200,300,400,500,600

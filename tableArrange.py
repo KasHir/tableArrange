@@ -21,9 +21,11 @@ output_row = []
 
 # make header label
 for j in range(header.count("header")):
-	print headerLabel[j] +",",
+	print headerLabel[j] + ",",
 	output_row.append(headerLabel[j])
 
+print "data1_label" + ",",
+output_row.append("data1_label")
 print "data1"
 output_row.append("data1")
 writer.writerow(output_row)
